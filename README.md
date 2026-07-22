@@ -122,7 +122,9 @@ Users can record measurements, notes and progress photographs.
 
 ### Code samples
 
-The [`code-samples`](./code-samples) directory contains selected anonymized examples demonstrating the structure and implementation of parts of the application.
+The [`code-samples/recipes`](./code-samples/recipes) directory contains selected production code from the Recipes module.
+
+The sample demonstrates the application flow across the Nette form, presenter, service and repository layers.
 
 ## Source code notice
 

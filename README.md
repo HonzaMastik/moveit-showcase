@@ -69,9 +69,56 @@ I am responsible for the complete development and operation of the platform, inc
 
 ## Repository contents
 
-### Screenshots
+## Application screenshots
 
-The [`screenshots`](./screenshots) directory contains selected views of the application using demonstration data.
+The screenshots below show selected parts of the MOVE!T platform using demonstration data.
+
+### Main dashboard
+
+The main dashboard provides access to the key sections of the platform.
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" alt="MOVE!T main dashboard" width="100%">
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>MOVE!T Play</strong><br><br>
+      Content platform for training, nutrition and educational materials.
+      <br><br>
+      <img src="./screenshots/moveit-play.png" alt="MOVE!T Play">
+    </td>
+    <td width="50%" valign="top">
+      <strong>Recipes</strong><br><br>
+      Recipe catalogue with categories, images and user interactions.
+      <br><br>
+      <img src="./screenshots/recipes.png" alt="MOVE!T recipes">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Fitness calculator</strong><br><br>
+      Interactive calculation of BMI, basal metabolism and recommended calorie intake.
+      <br><br>
+      <img src="./screenshots/calculator.png" alt="MOVE!T fitness calculator">
+    </td>
+    <td width="50%" valign="top">
+      <strong>Blog</strong><br><br>
+      Publishing and presentation of fitness-related articles.
+      <br><br>
+      <img src="./screenshots/blog.webp" alt="MOVE!T blog">
+    </td>
+  </tr>
+</table>
+
+### Progress diary
+
+Users can record measurements, notes and progress photographs.
+
+<p align="center">
+  <img src="./screenshots/diary.png" alt="MOVE!T progress diary" width="100%">
+</p>
 
 ### Code samples
 

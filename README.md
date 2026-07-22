@@ -107,7 +107,7 @@ The main dashboard provides access to the key sections of the platform.
       <strong>Blog</strong><br><br>
       Publishing and presentation of fitness-related articles.
       <br><br>
-      <img src="./screenshots/blog.webp" alt="MOVE!T blog">
+      <img src="./screenshots/blog.png" alt="MOVE!T blog">
     </td>
   </tr>
 </table>

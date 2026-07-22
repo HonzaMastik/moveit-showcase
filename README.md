@@ -2,7 +2,7 @@
 
 MOVE!T is a production SaaS platform for fitness creators that I independently designed, developed, deployed and continue to maintain.
 
-This repository presents selected screenshots and anonymized code samples from the application. The complete production source code is private for security and commercial reasons.
+This repository presents selected screenshots and production code samples from the application. The complete production source code is private for security and commercial reasons.
 
 ## Live application
 
